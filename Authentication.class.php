@@ -8,8 +8,8 @@
 
 namespace Plugins;
 
-use Models\Session;
-use Models\User;
+use Plugins\Authentication\Models\Session;
+use Plugins\Authentication\Models\User;
 
 class Authentication{
 
